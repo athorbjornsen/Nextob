@@ -1,0 +1,80 @@
+"questions": [
+    {
+      "title": Hva tester en enhets test?,
+      "answers": [
+        { "answer": "Nettverkshastighet" },
+        {
+          "answer": "Hele applikasjonen"
+        },
+        {
+          "answer": "At knappene funker"
+        },
+        {
+          "answer": "En liten isolert del av applikasjonen",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Enhet Dette er et substantiv som representerer en individuell ting betraktet som enkel og fullstendig.."
+      }
+      {
+        "title": Hva er viktigst?,
+        "answers": [
+          { "answer": "Skrive så mange tester som mulig"},
+          {
+            "answer": "Skrive så få tester som mulig"
+          },
+          {
+            "answer": "100% test coverage"
+          },
+          {
+            "answer": "Det viktigste. KISS.",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Ikke skriv dårlige og unødvendige tester. Skriv gode tester og ha god coverage "
+        }
+      }
+      {
+        "title": Hva tester en integrasjons test?,
+        "answers": [
+          { "answer": "Nettverkshastighet"},
+          {
+            "answer": "Hele applikasjonen",
+            "correct": true
+          },
+          {
+            "answer": "Et brukerscenario"
+          },
+          {
+            "answer": "Dataflyt mellom komponenter",
+           
+          }
+        ],
+        "helper": {
+          "text": "Når alt er integrert..."
+        }
+      }
+      {
+        "title": For å slippe å ha med kall til API i tester bruker man gjerne en.. ? ,
+        "answers": [
+          { "answer": "Mock", 
+            "correct": true },          
+          {
+            "answer": "Agent"
+          },
+          {
+            "answer": "God test"
+          },
+          {
+            "answer": "Saboteur"          
+          }
+        ],
+        "helper": {
+          "text": "Funksjonen håner deg ikke. Den bare later som.."
+        }
+      }
+    
+    }
+  ]
